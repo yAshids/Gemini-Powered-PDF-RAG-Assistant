@@ -1,0 +1,13 @@
+streamlit
+pymongo
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+pytesseract
+pillow
+PyPDF2
+SpeechRecognition
+pyaudio  
